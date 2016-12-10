@@ -28,7 +28,7 @@ public class RealPriceExam {
 //		Kaohsiung
 		String uri = "zip:http://plvr.land.moi.gov.tw" +
 				"/Download?type=zip&fileName=lvr_landxml.zip" +
-				"!E_LVR_LAND_A.XML";
+				"!/E_LVR_LAND_A.XML";
 
 
 		Document jsoupDoc = CrawlerPack.start()
