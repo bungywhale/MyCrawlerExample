@@ -23,7 +23,7 @@ public class PttGossipTest {
 		CrawlerPack.setLoggerLevel(SimpleLog.LOG_LEVEL_OFF);
 
 		// 遠端資料路徑
-//		String uri = "https://www.ptt.cc/bbs/Gossiping/";
+		String uri = "https://www.ptt.cc/bbs/Gossiping/";
 		String uri = "https://www.ptt.cc/bbs/Gossiping/M.1480524556.A.C7E.html";
 
             Document soup =CrawlerPack.start()
