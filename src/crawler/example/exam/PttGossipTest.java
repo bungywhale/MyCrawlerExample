@@ -1,4 +1,4 @@
-package crawler.example;
+package crawler.example.exam;
 
 import com.github.abola.crawler.CrawlerPack;
 import org.apache.commons.logging.impl.SimpleLog;
